@@ -1,49 +1,299 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.19): 1723757687160 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.19): 1723762882392 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723757690293 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723762885534 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723757693436 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723762888680 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723757696574 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723762891831 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723757699716 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723762894985 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723757702853 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723762898133 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723757705998 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723762901353 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723757709134 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723762904500 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723757712271 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723762907639 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723757715413 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723762910779 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762913918 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762917058 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762920209 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762923348 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762926493 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762929634 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762932787 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762935931 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762939072 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762942207 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762945362 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762948520 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762951673 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762954816 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762957970 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762961110 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762964255 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762967393 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762970556 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762973698 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762976842 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762979982 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762983122 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762986260 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762989398 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762992538 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762995697 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723762998839 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763001985 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763005123 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763008265 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763011404 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763014559 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763017701 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763020840 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763023977 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763027119 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763030261 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763033407 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763036561 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763039702 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763042838 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763045976 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763049115 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763052268 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763055410 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763058554 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763061692 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763064831 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+must-perth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723763067974 tunnel running, 1 tunnels registered
 
 
 TUNNELS
